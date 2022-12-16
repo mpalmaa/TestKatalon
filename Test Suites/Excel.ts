@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f84f11c2-e7fd-46ff-819e-cad00c6d9aee</testSuiteGuid>
+   <testCaseLink>
+      <guid>7325f516-b534-454e-9bfd-77bf80fb3d7b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestExcel/TestExcel</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>71e19c20-df82-4b62-a617-5909b5bf8bbb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_excel/Data_excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>71e19c20-df82-4b62-a617-5909b5bf8bbb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nombre</value>
+         <variableId>78b8ec4c-e17c-4102-80c9-a57be11b4375</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71e19c20-df82-4b62-a617-5909b5bf8bbb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>52348e69-4cb5-4c0d-9d1a-b60f7bb2a5f8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71e19c20-df82-4b62-a617-5909b5bf8bbb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Direccion1</value>
+         <variableId>d8ed2c42-16ce-41d2-a27e-e86d439d63b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71e19c20-df82-4b62-a617-5909b5bf8bbb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DireccionPermanente</value>
+         <variableId>704e8dca-acd7-4bc7-b91e-1b332518dea8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

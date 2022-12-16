@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Muebles</name>
+   <tag></tag>
+   <elementGuidId>60700c62-d309-4ae4-ae80-286ac924094f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.vtex-rich-text-0-x-link.vtex-rich-text-0-x-link--botoneraHomeSlider</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Muebles')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>405d0f70-652b-40f6-b9c4-6b49c3d1a772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vtex-rich-text-0-x-link vtex-rich-text-0-x-link--botoneraHomeSlider</value>
+      <webElementGuid>30d2f768-496e-4aea-b33f-f918c715991a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/muebles?layout=grid</value>
+      <webElementGuid>2b4c381d-eb73-41be-a308-3a1b277cd80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Muebles</value>
+      <webElementGuid>6cd989ba-17bd-4712-a19f-a797589ce16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-home&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[4]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[10]/div[1]/div[1]/div[@class=&quot;vtex-flex-layout-0-x-flexRow&quot;]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center&quot;]/div[@class=&quot;flex mt0 mb0 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent items-stretch w-100&quot;]/div[@class=&quot;pr0 items-stretch vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/section[@class=&quot;w-100 flex items-center relative vtex-slider-layout-0-x-sliderLayoutContainer vtex-slider-layout-0-x-sliderLayoutContainer--carousel-botonera-home&quot;]/div[@class=&quot;w-100 vtex-slider-layout-0-x-sliderTrackContainer vtex-slider-layout-0-x-sliderTrackContainer--carousel-botonera-home overflow-hidden&quot;]/div[@class=&quot;vtex-slider-layout-0-x-sliderTrack vtex-slider-layout-0-x-sliderTrack--carousel-botonera-home flex justify-around relative pa0 ma0&quot;]/div[@class=&quot;vtex-slider-layout-0-x-slide vtex-slider-layout-0-x-slide--carousel-botonera-home vtex-slider-layout-0-x-slide--firstVisible vtex-slider-layout-0-x-slide--carousel-botonera-home--firstVisible vtex-slider-layout-0-x-slide--visible vtex-slider-layout-0-x-slide--carousel-botonera-home--visible flex relative&quot;]/div[@class=&quot;vtex-slider-layout-0-x-slideChildrenContainer vtex-slider-layout-0-x-slideChildrenContainer--carousel-botonera-home flex justify-center items-center w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild pb0&quot;]/div[@class=&quot;vtex-rich-text-0-x-container vtex-rich-text-0-x-container--botoneraHomeSlider flex tl items-start justify-start t-body c-on-base&quot;]/div[@class=&quot;vtex-rich-text-0-x-wrapper vtex-rich-text-0-x-wrapper--botoneraHomeSlider&quot;]/h2[@class=&quot;vtex-rich-text-0-x-heading vtex-rich-text-0-x-heading--botoneraHomeSlider t-heading-2 vtex-rich-text-0-x-headingLevel2 vtex-rich-text-0-x-headingLevel2--botoneraHomeSlider vtex-rich-text-0-x-heading-level-2&quot;]/a[@class=&quot;vtex-rich-text-0-x-link vtex-rich-text-0-x-link--botoneraHomeSlider&quot;]</value>
+      <webElementGuid>159bc7f9-80dd-4799-88f1-8a4128d525b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Muebles')]</value>
+      <webElementGuid>adc81fde-13dd-4c3d-bb72-9c4730946fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Los descuentos que estabas esperando'])[1]/following::a[6]</value>
+      <webElementGuid>de378e13-bd24-44ee-83a5-d8697c244b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navidad'])[1]/following::a[6]</value>
+      <webElementGuid>a9d4fcfa-0779-416e-9094-758bf14b89ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dormitorio'])[1]/preceding::a[2]</value>
+      <webElementGuid>b0c9b9cc-c69b-441b-88a2-32400f8e622e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Herramientas'])[1]/preceding::a[4]</value>
+      <webElementGuid>ef7ea6e2-5934-435a-80d5-452a387aac40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/muebles?layout=grid')])[2]</value>
+      <webElementGuid>8740b5a3-7afb-4c6f-999c-e7416760c045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>1e1e0cb6-62da-485d-b1ae-7c3f2333eefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/muebles?layout=grid' and (text() = 'Muebles' or . = 'Muebles')]</value>
+      <webElementGuid>3533646a-0b87-4a63-950f-221396bde089</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

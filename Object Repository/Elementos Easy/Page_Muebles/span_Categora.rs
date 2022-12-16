@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Categora</name>
+   <tag></tag>
+   <elementGuidId>9c4010f6-f288-4128-8f28-37dfe8510d39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.easycl-search-result-0-x-filter__container.bb.b--muted-4.easycl-search-result-0-x-filter__container--category-2 > div.easycl-search-result-0-x-filter.pv5.easycl-search-result-0-x-filterAvailable.easycl-search-result-0-x-filterIsOpen > div.pointer > div.easycl-search-result-0-x-filterTitle.f5.flex.items-center.justify-between > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de puertas'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a7d35a4-a533-4ae4-b02f-c37e4cbc310b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Categoría</value>
+      <webElementGuid>ede97ada-1285-4483-8d21-f920838bf40d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base&quot;]/div[@class=&quot;render-container render-route-store-custom-furnitureTemplate&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[4]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[1]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center easycl-search-result-0-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;easycl-search-result-0-x-loadingOverlay w-100 flex flex-column flex-grow-1 easycl-search-result-0-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--searchResultTemplate&quot;]/div[@class=&quot;flex mt6 mb6 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--searchResultTemplate items-stretch w-100&quot;]/div[@class=&quot;pr5  vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filtersCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filtersCol pb0&quot;]/div[@class=&quot;easycl-search-result-0-x-filters--layout&quot;]/div[@class=&quot;easycl-search-result-0-x-filtersWrapper&quot;]/div[@class=&quot;easycl-search-result-0-x-filter__container bb b--muted-4 easycl-search-result-0-x-filter__container--category-2&quot;]/div[@class=&quot;easycl-search-result-0-x-filter pv5 easycl-search-result-0-x-filterAvailable easycl-search-result-0-x-filterIsOpen&quot;]/div[@class=&quot;pointer&quot;]/div[@class=&quot;easycl-search-result-0-x-filterTitle f5 flex items-center justify-between&quot;]/span[1]</value>
+      <webElementGuid>efafbb8a-6294-4f12-bb51-ce2459bd8728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de puertas'])[1]/following::span[2]</value>
+      <webElementGuid>98ec6282-a7d5-44ae-83d2-f1bd3893f43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de luces'])[1]/following::span[4]</value>
+      <webElementGuid>6affa5ce-a26f-4e99-9e57-c3f6ce088b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2630)'])[1]/preceding::span[2]</value>
+      <webElementGuid>05c4347f-182a-46fc-88a0-f6d68dd1728b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Categoría']/parent::*</value>
+      <webElementGuid>aa3c7ab1-7bdd-4702-b296-ba6681dac7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/span</value>
+      <webElementGuid>21315933-5b5d-4f4d-82fa-bc0e611c1162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Categoría' or . = 'Categoría')]</value>
+      <webElementGuid>3aa0f95c-4216-4a78-86fc-39a0e5b7389c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

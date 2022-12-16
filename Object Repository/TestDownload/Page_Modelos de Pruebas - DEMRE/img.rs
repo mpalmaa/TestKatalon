@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>e7cd3fee-14ca-40ec-83e5-8a832f50c9f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;titulo publicacion&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/section/article/div[2]/ul/li[1]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0e3b6dde-634c-4714-9ef1-6daa2bbb947d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../images/publicaciones/2023/mini/tapa-modelo-comp-lectora-pdt-p2023-167px.jpg</value>
+      <webElementGuid>03342e5d-2237-4936-a566-7d1b2e4e6fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>titulo publicacion</value>
+      <webElementGuid>bf54eb3b-d2cb-4d84-bea5-38c3f6f71b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;breakpoint-1024&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;contenido paginas-internas&quot;]/div[@class=&quot;centrar&quot;]/section[@class=&quot;interior-expanded&quot;]/article[@class=&quot;publicaciones&quot;]/div[@class=&quot;listado-publicacion&quot;]/ul[@class=&quot;listado-normal&quot;]/li[1]/a[1]/img[1]</value>
+      <webElementGuid>57130743-9cf8-4685-93e0-5db2489c86ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='titulo publicacion']</value>
+      <webElementGuid>d630cb14-296b-4514-8343-d035406b55ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/img</value>
+      <webElementGuid>0186df80-5004-445f-b329-31b1e433b60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../images/publicaciones/2023/mini/tapa-modelo-comp-lectora-pdt-p2023-167px.jpg' and @alt = 'titulo publicacion']</value>
+      <webElementGuid>e9a5f4be-7309-4c20-ae27-5423584057ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

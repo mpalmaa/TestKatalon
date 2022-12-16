@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_categoria_mueble</name>
+   <tag></tag>
+   <elementGuidId>04253789-4eab-4a0a-8112-a7b5ec636c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.easycl-search-result-0-x-filter__container.bb.b--muted-4.easycl-search-result-0-x-filter__container--category-2 > div.easycl-search-result-0-x-filterTemplateOverflow.pb5.overflow-y-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div[1]/div/div[4]/div/div/section/div[2]/div/div[2]/div/div[1]/div/div[3]/div/div/div[8]/div[3]/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2cfa61c5-1982-40ae-ba89-7b3ea79be1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>easycl-search-result-0-x-filterTemplateOverflow pb5 overflow-y-auto</value>
+      <webElementGuid>21133468-2594-4fea-8cff-e0fba12e7ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>scrollable-element</value>
+      <webElementGuid>8dd5ee89-d727-48d7-9d1e-3129da56dd84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>075327b8-5aef-43e0-8353-211041c19787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Muebles de Living y Sala de Estar (2630)Muebles de Dormitorio (1943)Muebles de Comedor, Cocina y Bar (1413)Muebles de Oficina (791)Muebles de Baño (683)Iluminación (533)Muebles de Terrazas (464)Muebles de Comedor y Bar (328)Muebles de Cocina (151)Decoración Baño (140)Menaje Comedor (130)Seguridad del Hogar (92)Vanitorios y Lavamanos (85)Toallas, Cortinas y Pisos de Baño (52)Muebles Funcionales (41)Piscinas y playa (32)Muebles para Niños (27)Camping (17)Maderas y Tableros (8)Viaje y Mudanza (1)Seguridad Infantil (1)Repisas y Estantes (1)Organización Dormitorio y Closet (1)Electrodomésticos (1)Cajas Organizadoras (1)Ver más</value>
+      <webElementGuid>740f27da-51df-4805-8335-e9fdafb2a192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-base scroll-down&quot;]/div[@class=&quot;render-container render-route-store-custom-furnitureTemplate&quot;]/div[@class=&quot;render-provider&quot;]/div[@class=&quot;vtex-store__template bg-base&quot;]/div[@class=&quot;flex flex-column min-vh-100 w-100&quot;]/div[4]/div[@class=&quot;flex flex-grow-1 w-100 flex-column&quot;]/div[1]/section[@class=&quot;vtex-store-components-3-x-container ph3 ph5-m ph2-xl mw9 center easycl-search-result-0-x-searchResultContainer pt3-m pt5-l&quot;]/div[@class=&quot;relative justify-center flex&quot;]/div[@class=&quot;easycl-search-result-0-x-loadingOverlay w-100 flex flex-column flex-grow-1 easycl-search-result-0-x-container--layout&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexRow vtex-flex-layout-0-x-flexRow--searchResultTemplate&quot;]/div[@class=&quot;flex mt6 mb6 pt0 pb0    justify-start vtex-flex-layout-0-x-flexRowContent vtex-flex-layout-0-x-flexRowContent--searchResultTemplate items-stretch w-100&quot;]/div[@class=&quot;pr5  vtex-flex-layout-0-x-stretchChildrenWidth   flex&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexCol vtex-flex-layout-0-x-flexCol--filtersCol  ml0 mr0 pl0 pr0      flex flex-column h-100 w-100&quot;]/div[@class=&quot;vtex-flex-layout-0-x-flexColChild vtex-flex-layout-0-x-flexColChild--filtersCol pb0&quot;]/div[@class=&quot;easycl-search-result-0-x-filters--layout&quot;]/div[@class=&quot;easycl-search-result-0-x-filtersWrapper&quot;]/div[@class=&quot;easycl-search-result-0-x-filter__container bb b--muted-4 easycl-search-result-0-x-filter__container--category-2&quot;]/div[@class=&quot;easycl-search-result-0-x-filterTemplateOverflow pb5 overflow-y-auto&quot;]</value>
+      <webElementGuid>66c059a7-2dc1-45a1-a6ce-f2a12fb960ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categoría'])[1]/following::div[2]</value>
+      <webElementGuid>f3500d37-b005-4d16-86bc-c4ac46840b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad de puertas'])[1]/following::div[9]</value>
+      <webElementGuid>d57b0cbe-89d3-4b10-8aba-8005ce7b1c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[3]</value>
+      <webElementGuid>b52dc7a7-d603-4e92-802a-9ef95d2e66e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Muebles de Living y Sala de Estar (2630)Muebles de Dormitorio (1943)Muebles de Comedor, Cocina y Bar (1413)Muebles de Oficina (791)Muebles de Baño (683)Iluminación (533)Muebles de Terrazas (464)Muebles de Comedor y Bar (328)Muebles de Cocina (151)Decoración Baño (140)Menaje Comedor (130)Seguridad del Hogar (92)Vanitorios y Lavamanos (85)Toallas, Cortinas y Pisos de Baño (52)Muebles Funcionales (41)Piscinas y playa (32)Muebles para Niños (27)Camping (17)Maderas y Tableros (8)Viaje y Mudanza (1)Seguridad Infantil (1)Repisas y Estantes (1)Organización Dormitorio y Closet (1)Electrodomésticos (1)Cajas Organizadoras (1)Ver más' or . = 'Muebles de Living y Sala de Estar (2630)Muebles de Dormitorio (1943)Muebles de Comedor, Cocina y Bar (1413)Muebles de Oficina (791)Muebles de Baño (683)Iluminación (533)Muebles de Terrazas (464)Muebles de Comedor y Bar (328)Muebles de Cocina (151)Decoración Baño (140)Menaje Comedor (130)Seguridad del Hogar (92)Vanitorios y Lavamanos (85)Toallas, Cortinas y Pisos de Baño (52)Muebles Funcionales (41)Piscinas y playa (32)Muebles para Niños (27)Camping (17)Maderas y Tableros (8)Viaje y Mudanza (1)Seguridad Infantil (1)Repisas y Estantes (1)Organización Dormitorio y Closet (1)Electrodomésticos (1)Cajas Organizadoras (1)Ver más')]</value>
+      <webElementGuid>a20c9fca-6475-44a2-a690-8f09c6a50a58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
